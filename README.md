@@ -1,4 +1,4 @@
-**Программа вычисления факториала**
+**Программа вычисления факториала числа**
 
 - **OS:** Windows, Linux, Mac 
 - **Tech Stack:** Java CE, IntelliJ IDEA CE, Git 
