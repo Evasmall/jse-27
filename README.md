@@ -7,8 +7,8 @@
 
 - **Developer:** Евгения Смолкина
 - **Email:** smolkina_ev@nlmk.com
-- **Backup:** https://github.com/Evasmall/jse-25
+- **Backup:** https://github.com/Evasmall/jse-27
 
 | Start |
 | ------ |
-| java -jar jse-25.jar |
+| java -jar jse-27.jar |
